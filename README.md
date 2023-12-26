@@ -1,5 +1,5 @@
 # Ekran Görüntüsü
 
-Site responsive formatta resimdeki gözükmektedir.
+Site responsive formatta resimdeki gibi gözükmektedir.
 
 ![Ekran Görüntüsü](/img/responsivess.png)
